@@ -4,7 +4,10 @@
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou larissarousseau@gmail.com
 
-![image](https://user-images.githubusercontent.com/98029687/204616103-6dac5cb0-0300-42ab-8c71-939a55bc987a.png)
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairMiaWallace&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=CollarSweater&clotheColor=Black&eyeType=Hearts&eyebrowType=UpDown&mouthType=Smile&skinColor=Light'
+/>
+
+
 
 
 
