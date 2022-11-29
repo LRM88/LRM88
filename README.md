@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou larissarousseau@gmail.com
 
-<div class="tenor-gif-embed" data-postid="15565644294719387330" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/exploding-head-use-computer-laptop-computers-computer-game-gif-15565644294719387330">Exploding Head Use Computer Sticker</a>from <a href="https://tenor.com/search/exploding+head-stickers">Exploding Head Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+https://tenor.com/pt-BR/view/spongebob-patrick-star-we-have-technology-technology-tech-gif-20684652
 
 
 <!---
