@@ -4,7 +4,12 @@
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou larissarousseau@gmail.com
 
-https://tenor.com/pt-BR/view/spongebob-patrick-star-we-have-technology-technology-tech-gif-20684652
+![image](https://user-images.githubusercontent.com/98029687/204616103-6dac5cb0-0300-42ab-8c71-939a55bc987a.png)
+
+
+
+
+
 
 
 <!---
