@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou larissarousseau@gmail.com
 
-![image](https://user-images.githubusercontent.com/98029687/204612216-365f2425-d249-43a0-97ff-a2e669fcf521.png)
+<div class="tenor-gif-embed" data-postid="15565644294719387330" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/exploding-head-use-computer-laptop-computers-computer-game-gif-15565644294719387330">Exploding Head Use Computer Sticker</a>from <a href="https://tenor.com/search/exploding+head-stickers">Exploding Head Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <!---
