@@ -1,5 +1,5 @@
 
-![Snake animation](https://github.com/LRM88/LRM88/blob/output/github-contribution-grid-snake.sgv)
+![Snake gif](https://github.com/LRM88/LRM88/blob/output/github-contribution-grid-snake.sgv)
 
 
 - 👋 Hi, I’m @LRM88 Larissa Rousseau 😉
