@@ -1,8 +1,10 @@
 
-![Snake gif](https://github.com/LRM88/LRM88/output/github-contribution-grid-snake.sgv)
 
 
-- 👋 Hi, I’m @LRM88 Larissa Rousseau 😉
+<a href="https://www.imagensanimadas.com/cat-xadrez-613.htm"><img src="https://www.imagensanimadas.com/data/media/613/xadrez-imagem-animada-0057.gif" border="0" alt="xadrez-imagem-animada-0057" /></a>
+
+
+- 👋 Hi, I’m Larissa Rousseau 😉
 - 👀 I’m interested in ... Tecnologia, arte, música e gente!
 - 🌱 I’m currently learning ... Java, C# e Phyton.
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
