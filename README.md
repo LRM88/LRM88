@@ -1,3 +1,7 @@
+
+![Snake animation](https://github.com/LRM88/LRM88/blob/output/github-contribution-grid-snake.sgv)
+
+
 - 👋 Hi, I’m @LRM88 Larissa Rousseau 😉
 - 👀 I’m interested in ... Tecnologia, arte, música e gente!
 - 🌱 I’m currently learning ... Java, C# e Phyton.
@@ -7,7 +11,7 @@
 <img src='https://avataaars.io/?avatarStyle=Transparent&topType=LongHairMiaWallace&accessoriesType=Blank&hairColor=Black&facialHairType=Blank&clotheType=CollarSweater&clotheColor=Black&eyeType=Hearts&eyebrowType=UpDown&mouthType=Smile&skinColor=Light'
 />
 
-![Snake animation] (https://github.com/LRM88/LRM88/blob/output/github-contribution-grid-snake.sgv)
+
 
 
 
