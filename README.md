@@ -6,17 +6,23 @@
 
 
 
-- 👋 Hi, I’m Larissa Rousseau 😉
+   - 👋 Hi, I’m Larissa Rousseau 😉
+
 - 👀 I’m interested in ... Tecnologia, arte, música e gente!
 - 🌱 I’m currently learning ... Java, C# e Phyton.
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou;
-- @ larissarousseau@gmail.com
 
+- ✉️ larissarousseau@gmail.com
+- https://www.linkedin.com/in/larissa-machado-96227b221
+ 
 Tecnologias e ferramentas;
 
 
 ![image](https://user-images.githubusercontent.com/98029687/205085953-d5c0ccd2-81e2-44d0-8e8a-3379fa35af14.png)
+![image](https://user-images.githubusercontent.com/98029687/205103538-55a6bab5-e62c-43b2-89c3-b4595e9ecc20.png)
+![image](https://user-images.githubusercontent.com/98029687/205102155-56711794-f540-4d44-87c9-ee385c652699.png)
+
 
           
  
@@ -26,7 +32,7 @@ Tecnologias e ferramentas;
             
          
             
- ![image](https://user-images.githubusercontent.com/98029687/205082843-bf60d779-e2c5-4aef-80a8-548db5b30217.png)
+  ![image](https://user-images.githubusercontent.com/98029687/205082843-bf60d779-e2c5-4aef-80a8-548db5b30217.png)
 
 
 
