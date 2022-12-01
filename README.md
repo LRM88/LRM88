@@ -1,14 +1,17 @@
+ ![image](https://user-images.githubusercontent.com/98029687/205114225-478c0f64-0dff-45fd-b26e-25dace370be2.png) 
 
 
 
-<a href="https://www.imagensanimadas.com/cat-xadrez-613.htm"><img src="https://www.imagensanimadas.com/data/media/613/xadrez-imagem-animada-0057.gif" border="0" alt="xadrez-imagem-animada-0057" /></a>
+
 
 
 
 
   <h1 align="center"> 👋 Olá, eu sou Larissa Rousseau  </h1> 
   
-  ![image](https://user-images.githubusercontent.com/98029687/205114225-478c0f64-0dff-45fd-b26e-25dace370be2.png)
+  <a href="https://www.imagensanimadas.com/cat-xadrez-613.htm"><img src="https://www.imagensanimadas.com/data/media/613/xadrez-imagem-animada-0057.gif" border="0" alt="xadrez-imagem-animada-0057" /></a>
+
+
 
 
 
@@ -33,6 +36,10 @@ Tecnologias e ferramentas;
 ![image](https://user-images.githubusercontent.com/98029687/205085953-d5c0ccd2-81e2-44d0-8e8a-3379fa35af14.png)
 ![image](https://user-images.githubusercontent.com/98029687/205103538-55a6bab5-e62c-43b2-89c3-b4595e9ecc20.png)
 ![image](https://user-images.githubusercontent.com/98029687/205102155-56711794-f540-4d44-87c9-ee385c652699.png)
+![image](https://user-images.githubusercontent.com/98029687/205151097-d2115c8d-d66c-471b-b912-f74af2c39770.png)
+
+            
+          
 
 
           
