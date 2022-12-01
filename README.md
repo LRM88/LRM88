@@ -7,9 +7,14 @@
 
 
   <h1 align="center"> 👋 Olá, eu sou Larissa Rousseau 😉 </h1> 
+  
+  ![image](https://user-images.githubusercontent.com/98029687/205114225-478c0f64-0dff-45fd-b26e-25dace370be2.png)
 
 
-![image](https://user-images.githubusercontent.com/98029687/205082843-bf60d779-e2c5-4aef-80a8-548db5b30217.png)
+
+
+
+
 
 
 
