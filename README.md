@@ -21,6 +21,7 @@
 
 - 👀 I’m interested in ... Tecnologia, arte, música e gente!
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
+- 👩‍🎓 Formação: Análises e Desenvolvimento de Sistemas - Estácio de Sá - 2022
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou;
 
 - ✉️ larissarousseau@gmail.com
