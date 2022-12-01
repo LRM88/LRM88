@@ -6,7 +6,13 @@
 
 
 
-   - 👋 Hi, I’m Larissa Rousseau 😉
+  <h1 align="center"> 👋 Olá, eu sou Larissa Rousseau 😉 </h1> 
+
+
+![image](https://user-images.githubusercontent.com/98029687/205082843-bf60d779-e2c5-4aef-80a8-548db5b30217.png)
+
+
+
 
 - 👀 I’m interested in ... Tecnologia, arte, música e gente!
 - 🌱 I’m currently learning ... Java, C# e Phyton.
@@ -32,7 +38,7 @@ Tecnologias e ferramentas;
             
          
             
-  ![image](https://user-images.githubusercontent.com/98029687/205082843-bf60d779-e2c5-4aef-80a8-548db5b30217.png)
+  
 
 
 
