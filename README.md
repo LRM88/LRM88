@@ -6,7 +6,7 @@
 
 
 
-  <h1 align="center"> 👋 Olá, eu sou Larissa Rousseau 😉 </h1> 
+  <h1 align="center"> 👋 Olá, eu sou Larissa Rousseau  </h1> 
   
   ![image](https://user-images.githubusercontent.com/98029687/205114225-478c0f64-0dff-45fd-b26e-25dace370be2.png)
 
@@ -20,7 +20,6 @@
 
 
 - 👀 I’m interested in ... Tecnologia, arte, música e gente!
-- 🌱 I’m currently learning ... Java, C# e Phyton.
 - 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou;
 
