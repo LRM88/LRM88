@@ -30,7 +30,7 @@
 - 📫 How to reach me ... Por aqui.....👣 👣 👣 ou;
 
 - ✉️ larissarousseau@gmail.com
-- https://www.linkedin.com/in/larissa-machado-96227b221
+
  
 Tecnologias e ferramentas;
 
