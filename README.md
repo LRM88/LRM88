@@ -38,15 +38,14 @@
  
 **Tecnologias e ferramentas certificadas e em desenvolvimento;**
 
+![image](https://user-images.githubusercontent.com/98029687/208180491-a9a3ab73-82b9-48d4-a970-0d0abc91fb93.png)
+![image](https://user-images.githubusercontent.com/98029687/208181219-88ae7b1f-8b6f-4479-a23f-094b54da9c65.png)
+![image](https://user-images.githubusercontent.com/98029687/208180836-4476c0e9-86ce-47d6-9de6-1b8632f0e714.png)
+![image](https://user-images.githubusercontent.com/98029687/208180887-dcb8ba04-aa3c-44c9-9ea6-87286951e0ef.png)
+![image](https://user-images.githubusercontent.com/98029687/208180911-704ef217-b589-4874-a460-ede2388e33e9.png)
 
-![image](https://user-images.githubusercontent.com/98029687/205085953-d5c0ccd2-81e2-44d0-8e8a-3379fa35af14.png)
-![image](https://user-images.githubusercontent.com/98029687/205103538-55a6bab5-e62c-43b2-89c3-b4595e9ecc20.png)
-![image](https://user-images.githubusercontent.com/98029687/205102155-56711794-f540-4d44-87c9-ee385c652699.png)
-![image](https://user-images.githubusercontent.com/98029687/205151097-d2115c8d-d66c-471b-b912-f74af2c39770.png)
 
-
-
-*Minhas Soft Skills:* 
+*Minhas Soft Skills 💞️:* 
 
 
 1- Trabalho em equipe 2 - Proatividade 3 - Empatia  4 -Comunicação 5 -Comprometimento 6 - Criatividade 7 - Resiliência
