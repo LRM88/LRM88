@@ -24,15 +24,19 @@
 
 
 
-- 👀 I’m interested in ... Tecnologia, arte, música e gente!
-- 💞️ I’m looking to collaborate on ... Desenvolvimento e testes de software
-- 👩‍🎓 Formação: Análises e Desenvolvimento de Sistemas - Estácio de Sá - 2022
-- 📫 How to reach me ... Por aqui.....👣 👣 👣 ou;
+- 👀 **Interessada em**; 
+- Tecnologia, arte, música e gente!
+- 💞️ **Colaborando com** ; 
+- Desenvolvimento e testes de software
+- 👩‍🎓 **Formação**: 
+- Análises e Desenvolvimento de Sistemas - Estácio de Sá - 2022-
+- 🎓 **Finalização do Bootcamp da DIO de QA da GFT** - 12/2022
+- 📫 **Me encontra** ... Por aqui.....👣 👣 👣 ....... ou;
 
 - ✉️ larissarousseau@gmail.com
 
  
-Tecnologias e ferramentas;
+**Tecnologias e ferramentas certificadas e em desenvolvimento;**
 
 
 ![image](https://user-images.githubusercontent.com/98029687/205085953-d5c0ccd2-81e2-44d0-8e8a-3379fa35af14.png)
@@ -40,6 +44,12 @@ Tecnologias e ferramentas;
 ![image](https://user-images.githubusercontent.com/98029687/205102155-56711794-f540-4d44-87c9-ee385c652699.png)
 ![image](https://user-images.githubusercontent.com/98029687/205151097-d2115c8d-d66c-471b-b912-f74af2c39770.png)
 
+
+
+*Minhas Soft Skills:* 
+
+
+1- Trabalho em equipe 2 - Proatividade 3 - Empatia  4 -Comunicação 5 -Comprometimento 6 - Criatividade 7 - Resiliência
             
           
 
