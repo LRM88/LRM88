@@ -1,4 +1,4 @@
- ![image](https://user-images.githubusercontent.com/98029687/206558880-10af2b84-f4ce-4241-8dec-ffa58f0b6b55.png)
+
 
 
 
@@ -49,6 +49,10 @@
 
 
 1- Trabalho em equipe 2 - Proatividade 3 - Empatia  4 -Comunicação 5 -Comprometimento 6 - Criatividade 7 - Resiliência
+
+
+![image](https://user-images.githubusercontent.com/98029687/208513295-3dade8ce-196f-4c42-8e5e-82027bd0dfa9.png)
+
             
           
 
