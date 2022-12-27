@@ -51,9 +51,9 @@
 1- Trabalho em equipe 2 - Proatividade 3 - Empatia  4 -Comunicação 5 -Comprometimento 6 - Criatividade 7 - Resiliência
 
 
-![image](https://user-images.githubusercontent.com/98029687/208513295-3dade8ce-196f-4c42-8e5e-82027bd0dfa9.png)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRM88&show_icons=true&theme=dracula)
+
+![Snake animation](https://github.com/LRM88/LRM88/blob/output/github-contribution-grid-snake.svg)
 
 
             
