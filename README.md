@@ -53,6 +53,9 @@
 
 ![image](https://user-images.githubusercontent.com/98029687/208513295-3dade8ce-196f-4c42-8e5e-82027bd0dfa9.png)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRM88&show_icons=true&theme=dracula)
+
+
             
           
 
