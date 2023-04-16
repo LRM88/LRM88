@@ -29,7 +29,8 @@
 - 💞️ **Colaborando com** ; 
 - Desenvolvimento e testes de software
 - 👩‍🎓 **Formação**: 
-- Análises e Desenvolvimento de Sistemas - Estácio de Sá - 2022-
+- 🖱️ Engenharia da Computação - Faculdade Focus - 2023
+- 💻 Análises e Desenvolvimento de Sistemas - Estácio de Sá - 2022-
 - 🎓 **Finalização do Bootcamp da DIO de QA da GFT** - 12/2022
 - 📫 **Me encontra** ... Por aqui.....👣 👣 👣 ....... ou;
 
