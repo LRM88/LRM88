@@ -52,6 +52,8 @@
 1- Trabalho em equipe 2 - Proatividade 3 - Empatia  4 -Comunicação 5 -Comprometimento 6 - Criatividade 7 - Resiliência
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LRM88&layout=compact)](https://github.com/LRM88/?username=LRM88/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRM88&show_icons=true&theme=dracula)
 
 
