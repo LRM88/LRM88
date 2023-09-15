@@ -27,7 +27,7 @@
 - 👀 **Interessada em**; 
 - Tecnologia, arte, música e gente!
 - 💞️ **Colaborando com** ; 
-- Desenvolvimento e Análises de Projetos
+- Desenvolvimento e Análises de Projetos de Redes
 - 👩‍🎓 **Formação**:
 - 👩‍💻 MBA Tecnologia da Informação- 2023
 - 🖱️ Pós- Engenharia da Computação - 2023
@@ -47,7 +47,7 @@
 ![image](https://user-images.githubusercontent.com/98029687/208180911-704ef217-b589-4874-a460-ede2388e33e9.png)
 
 
-* New * 💞️:
+* New 💞️:
 
 ![image](https://github.com/LRM88/LRM88/assets/98029687/6c654759-41d9-4869-b803-a1b527e42867)
 
