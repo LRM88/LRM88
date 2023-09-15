@@ -27,8 +27,9 @@
 - 👀 **Interessada em**; 
 - Tecnologia, arte, música e gente!
 - 💞️ **Colaborando com** ; 
-- Desenvolvimento e testes de software
-- 👩‍🎓 **Formação**: 
+- Desenvolvimento e Análises de Projetos
+- 👩‍🎓 **Formação**:
+- 👩‍💻 MBA Tecnologia da Informação- 2023
 - 🖱️ Engenharia da Computação - 2023
 - 💻 Análises e Desenvolvimento de Sistemas - 2022-
 - 🎓 **Finalização do Bootcamp da DIO de QA da GFT** - 12/2022
@@ -46,10 +47,8 @@
 ![image](https://user-images.githubusercontent.com/98029687/208180911-704ef217-b589-4874-a460-ede2388e33e9.png)
 
 
-*Minhas Soft Skills 💞️:* 
+* New Skills 💞️:* Asana
 
-
-1- Trabalho em equipe 2 - Proatividade 3 - Empatia  4 -Comunicação 5 -Comprometimento 6 - Criatividade 7 - Resiliência
 
 
 
