@@ -30,7 +30,7 @@
 - Desenvolvimento e Análises de Projetos
 - 👩‍🎓 **Formação**:
 - 👩‍💻 MBA Tecnologia da Informação- 2023
-- 🖱️ Engenharia da Computação - 2023
+- 🖱️ Pós- Engenharia da Computação - 2023
 - 💻 Análises e Desenvolvimento de Sistemas - 2022-
 - 🎓 **Finalização do Bootcamp da DIO de QA da GFT** - 12/2022
 - 📫 **Me encontra** ... Por aqui.....👣 👣 👣 ....... ou;
@@ -47,8 +47,9 @@
 ![image](https://user-images.githubusercontent.com/98029687/208180911-704ef217-b589-4874-a460-ede2388e33e9.png)
 
 
-* New Skills 💞️:* Asana
+* New * 💞️:
 
+![image](https://github.com/LRM88/LRM88/assets/98029687/6c654759-41d9-4869-b803-a1b527e42867)
 
 
 
@@ -56,7 +57,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LRM88&show_icons=true&theme=dracula)
 
 
-![Snake animation](https://github.com/LRM88/LRM88/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
