@@ -29,8 +29,7 @@
 - 💞️ **Colaborando com** ; 
 - Desenvolvimento e Análises de Projetos de Redes
 - 👩‍🎓 **Formação**:
-- 👩‍💻 MBA Tecnologia da Informação- 2023
-- 🖱️ Pós- Engenharia da Computação - 2023
+- 👩‍💻 MBA Tecnologia da Informação- 2024
 - 💻 Análises e Desenvolvimento de Sistemas - 2022-
 - 🎓 **Finalização do Bootcamp da DIO de QA da GFT** - 12/2022
 - 📫 **Me encontra** ... Por aqui.....👣 👣 👣 ....... ou;
